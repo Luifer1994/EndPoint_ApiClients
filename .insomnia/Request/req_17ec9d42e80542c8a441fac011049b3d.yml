@@ -1,19 +1,23 @@
 _id: req_17ec9d42e80542c8a441fac011049b3d
 type: Request
 parentId: fld_5a079953e2c74669a065932cc8941424
-modified: 1628736826837
+modified: 1628737710339
 created: 1628736826837
-url: ""
+url: "{{ _.urlbaselocal }}paises/store"
 name: Registrar
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: ""
+  text: |-
+    {
+    	"name":"VENEZUELA"
+    }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_c49412cfc0544decbf8d21457b093459
 authentication: {}
 metaSortKey: -1628736826837
 isPrivate: false

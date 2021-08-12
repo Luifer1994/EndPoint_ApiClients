@@ -1,9 +1,9 @@
 _id: req_348d2000d94444b4877f002c4e30b6af
 type: Request
 parentId: fld_5a079953e2c74669a065932cc8941424
-modified: 1628736808367
+modified: 1628737639435
 created: 1628736806437
-url: http://localhost:8000/paises
+url: "{{ _.urlbaselocal }}/paises"
 name: Listar
 description: ""
 method: GET

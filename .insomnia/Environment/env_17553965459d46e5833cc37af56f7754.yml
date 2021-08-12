@@ -1,0 +1,20 @@
+_id: env_17553965459d46e5833cc37af56f7754
+type: Environment
+parentId: env_f7519e452381fdcd62ee22d05b9b0b74f2037212
+modified: 1628737428957
+created: 1628737367669
+name: variablesEntorno
+data:
+  urlbase: ""
+  urlbaselocal: http://localhost:8000/
+  urlbaseQA: https://cotizacionesapi.acercate.com.co/
+  tokenApi: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MjA5MjIwNDksImp0aSI6IlZcL1Y3Vkdkc01MMGpZVnA3ZlkrSXhGR1YzNUtCVEdRVEJSS1Vtb0tlaXpjPSIsImlzcyI6ImNvdGl6YWNpb25lc2FwaS5hY2VyY2F0ZS5jb20uY28iLCJleHAiOjE2MjA5MjU2NDksImRhdGEiOnsiY29kX3VzZXIiOiIyIiwiY29kX3Byb2ZpbGUiOiIxIn19.7WYdOYxpFQAW1SFnib97NosbcNoCATEhkPT1ps3H6Jc
+dataPropertyOrder:
+  "&":
+    - urlbase
+    - urlbaselocal
+    - urlbaseQA
+    - tokenApi
+color: null
+isPrivate: false
+metaSortKey: 1628737367669

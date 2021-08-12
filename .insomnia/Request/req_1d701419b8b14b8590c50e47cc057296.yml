@@ -1,9 +1,9 @@
-_id: req_17ec9d42e80542c8a441fac011049b3d
+_id: req_1d701419b8b14b8590c50e47cc057296
 type: Request
-parentId: fld_5a079953e2c74669a065932cc8941424
-modified: 1628738381540
-created: 1628736826837
-url: "{{ _.urlbaselocal }}paises/store"
+parentId: fld_351afacb378e4a96a88de9843375da72
+modified: 1628739177342
+created: 1628738334247
+url: "{{ _.urlbaselocal }}departamentos/store"
 name: Registrar
 description: ""
 method: POST
@@ -11,15 +11,16 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"name":"COLOMBIA"
+    	"id_pais":"2",
+    	"name":"ATLANTICO"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
-    id: pair_c49412cfc0544decbf8d21457b093459
+    id: pair_0dd602896d8f4b6aa3b821046aa6c8e3
 authentication: {}
-metaSortKey: -1628736806387
+metaSortKey: -1628738234038
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

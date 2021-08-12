@@ -1,0 +1,21 @@
+_id: req_c1662127517c45d692ca5368e929b5cc
+type: Request
+parentId: fld_351afacb378e4a96a88de9843375da72
+modified: 1628738249749
+created: 1628738234088
+url: "{{ _.urlbaselocal }}departamentos"
+name: Listar
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1628738234088
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
